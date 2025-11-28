@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0066-plus-one) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 ## Database
 |  |
 | ------- |
