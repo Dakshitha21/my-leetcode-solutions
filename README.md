@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0066-plus-one) |
 | [0704-binary-search](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0704-binary-search) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1929-concatenation-of-array](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
 |  |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0066-plus-one) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 ## Database
 |  |
 | ------- |
