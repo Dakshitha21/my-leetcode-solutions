@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0066-plus-one) |
+| [0326-power-of-three](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0326-power-of-three) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 ## Database
@@ -54,4 +55,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0050-powx-n) |
+| [0326-power-of-three](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
