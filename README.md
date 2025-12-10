@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0066-plus-one) |
+| [0268-missing-number](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0704-binary-search) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0704-binary-search) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Math
@@ -30,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0066-plus-one) |
+| [0268-missing-number](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0342-power-of-four) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -53,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0268-missing-number) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 ## Recursion
 |  |
@@ -63,9 +67,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0342-power-of-four) |
 ## Matrix
 |  |
 | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+## Hash Table
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
