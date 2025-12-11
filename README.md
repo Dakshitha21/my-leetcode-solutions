@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1952-three-divisors](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/1952-three-divisors) |
 ## Database
 |  |
 | ------- |
@@ -87,4 +88,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0509-fibonacci-number) |
+## Enumeration
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/1952-three-divisors) |
+## Number Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
