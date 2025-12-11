@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0342-power-of-four) |
+| [0509-fibonacci-number](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 ## Database
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0050-powx-n) |
 | [0326-power-of-three](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0342-power-of-four) |
+| [0509-fibonacci-number](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -77,4 +79,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0268-missing-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
