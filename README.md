@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1952-three-divisors](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/1952-three-divisors) |
+| [2119-a-number-after-a-double-reversal](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/2119-a-number-after-a-double-reversal) |
 | [2235-add-two-integers](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/2235-add-two-integers) |
 ## Database
 |  |
