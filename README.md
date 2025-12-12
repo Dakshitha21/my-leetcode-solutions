@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0342-power-of-four) |
 | [0507-perfect-number](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1952-three-divisors](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/1952-three-divisors) |
