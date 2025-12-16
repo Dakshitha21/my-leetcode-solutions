@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2651-calculate-delayed-arrival-time](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/2651-calculate-delayed-arrival-time) |
 ## Database
 |  |
 | ------- |
