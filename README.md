@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
