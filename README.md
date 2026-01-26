@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1486-xor-operation-in-an-array](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1688-count-of-matches-in-tournament](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1952-three-divisors](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/1952-three-divisors) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/2119-a-number-after-a-double-reversal) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1688-count-of-matches-in-tournament](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [1929-concatenation-of-array](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/1929-concatenation-of-array) |
 ## String
 |  |
