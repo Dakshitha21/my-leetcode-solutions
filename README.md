@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0006-zigzag-conversion) |
 | [0709-to-lower-case](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0709-to-lower-case) |
 ## Sorting
 |  |
