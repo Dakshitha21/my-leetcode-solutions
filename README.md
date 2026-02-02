@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0342-power-of-four) |
 | [1486-xor-operation-in-an-array](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
@@ -153,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0002-add-two-numbers) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
