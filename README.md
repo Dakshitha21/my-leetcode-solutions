@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0704-binary-search) |
+| [0705-design-hashset](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0705-design-hashset) |
 | [0977-squares-of-a-sorted-array](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/1051-height-checker) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0229-majority-element-ii](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0268-missing-number) |
+| [0705-design-hashset](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0705-design-hashset) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Dynamic Programming
@@ -164,8 +166,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0705-design-hashset](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0705-design-hashset) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0191-number-of-1-bits) |
+## Design
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0705-design-hashset) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
