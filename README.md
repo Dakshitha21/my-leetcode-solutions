@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1748-sum-of-unique-elements](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1929-concatenation-of-array](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1748-sum-of-unique-elements](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Dynamic Programming
 |  |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1748-sum-of-unique-elements](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Linked List
 |  |
