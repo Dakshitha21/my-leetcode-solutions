@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1929-concatenation-of-array](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/1929-concatenation-of-array) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0705-design-hashset) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Dynamic Programming
 |  |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [1051-height-checker](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Linked List
 |  |
