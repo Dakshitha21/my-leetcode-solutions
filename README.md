@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0066-plus-one) |
+| [0258-add-digits](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0342-power-of-four) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0258-add-digits) |
 | [1688-count-of-matches-in-tournament](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [1929-concatenation-of-array](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/2180-count-integers-with-even-digit-sum) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0258-add-digits) |
 | [1952-three-divisors](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/1952-three-divisors) |
 | [2413-smallest-even-multiple](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/2427-number-of-common-factors) |
