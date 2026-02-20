@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0189-rotate-array](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0268-missing-number) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0704-binary-search) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Hash Table
 |  |
