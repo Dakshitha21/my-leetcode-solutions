@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0075-sort-colors) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0202-happy-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0704-binary-search) |
