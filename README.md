@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0371-sum-of-two-integers) |
+| [0412-fizz-buzz](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [1688-count-of-matches-in-tournament](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [1929-concatenation-of-array](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/2180-count-integers-with-even-digit-sum) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0006-zigzag-conversion) |
 | [0125-valid-palindrome](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0412-fizz-buzz](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0709-to-lower-case) |
 ## Sorting
 |  |
