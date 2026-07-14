@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0344-reverse-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2000-reverse-prefix-of-word](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 ## Binary Search
 |  |
 | ------- |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0709-to-lower-case) |
+| [2000-reverse-prefix-of-word](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 ## Sorting
 |  |
 | ------- |
@@ -267,4 +269,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0912-sort-an-array) |
+## Stack
+|  |
+| ------- |
+| [2000-reverse-prefix-of-word](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 <!---LeetCode Topics End-->
