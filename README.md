@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0202-happy-number) |
+| [0344-reverse-string](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0344-reverse-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Binary Search
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0344-reverse-string](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0709-to-lower-case) |
 ## Sorting
