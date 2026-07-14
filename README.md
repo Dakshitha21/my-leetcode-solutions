@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0705-design-hashset) |
 | [0912-sort-an-array](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0912-sort-an-array) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0344-reverse-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
