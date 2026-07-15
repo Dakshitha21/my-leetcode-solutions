@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2460-apply-operations-to-an-array](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2540-minimum-common-value](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Two Pointers
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2000-reverse-prefix-of-word](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2460-apply-operations-to-an-array](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/2460-apply-operations-to-an-array) |
+| [2540-minimum-common-value](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/2540-minimum-common-value) |
 ## Binary Search
 |  |
 | ------- |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2540-minimum-common-value](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/2540-minimum-common-value) |
 ## Math
 |  |
 | ------- |
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
+| [2540-minimum-common-value](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Dynamic Programming
 |  |
