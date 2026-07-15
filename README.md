@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2460-apply-operations-to-an-array](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2540-minimum-common-value](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/2540-minimum-common-value) |
+| [3794-reverse-string-prefix](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/3794-reverse-string-prefix) |
 ## Binary Search
 |  |
 | ------- |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/0709-to-lower-case) |
 | [2000-reverse-prefix-of-word](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
+| [3794-reverse-string-prefix](https://github.com/Dakshitha21/my-leetcode-solutions/tree/master/3794-reverse-string-prefix) |
 ## Sorting
 |  |
 | ------- |
